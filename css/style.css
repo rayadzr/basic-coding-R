@@ -1,0 +1,17 @@
+#top {
+    background-color: rgb(38, 57, 139);
+    color: aliceblue;
+    padding: 50px 15px 10px;
+    margin-bottom: 50px
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+	color: rgb(255, 255, 255);
+};
+p {
+    color: rgb(255, 255, 255);
+}
